@@ -1,1 +1,5 @@
 # YOLO_Detect_and_Tracker
+
+# opencv-python==4.10.0.84
+# ultralytics==8.3.1
+# deep-sort-realtime==1.3.2
